@@ -53,3 +53,16 @@ A comprehensive **Airline Flight Management System** database for managing fligh
 
 ```bash
 git clone https://github.com/atharvsuranje/airplane-database-system/
+```
+2. Create the database and tables:
+```bash
+SOURCE schema.sql;
+```
+3. Insert sample data:
+```bash
+SOURCE sample_data.sql;
+```
+4. Explore sample queries:
+```bash
+SOURCE queries.sql;
+```
